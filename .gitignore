@@ -1,5 +1,6 @@
-# jupyter notebook checkpoints
+# jupyter notebook checkpoints and pycharm dir
 .ipynb_checkpoints/
+.idea/
 
 # tokens and passwords
 secure/
