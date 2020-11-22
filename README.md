@@ -25,4 +25,4 @@ Self hosted on NAS drive, probably will go with Postgresql or mariadb
 These will be the main 'work steams'
 
 ### First deliverable
-The first deliverable will be making a telegram bot which can recieve images, store them locally and update an sql table with details
+The first deliverable will be making a telegram bot which can recieve images, store them locally and update an SQL table with details
